@@ -1,1 +1,1 @@
-# Cassava-disease-classofication
+# Cassava-disease-classification
